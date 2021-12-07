@@ -9,4 +9,9 @@ public class A {
         System.out.println("Feature 2");
         System.out.println("Feature 1 fix by user 1");
     }
+
+
+    public void  feature4() {
+        
+    }
 }
