@@ -20,4 +20,8 @@ public class A {
     public void someWork() {
         
     }
+
+    public void commitedWOrk() {
+        
+    }
 }
