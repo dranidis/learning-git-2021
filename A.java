@@ -7,5 +7,6 @@ public class A {
      */
     public void mtd() {
         System.out.println("Feature 2");
+        System.out.println("Feature 1 fix by user 1");
     }
 }
