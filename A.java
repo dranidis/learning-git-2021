@@ -7,4 +7,8 @@ public class A {
     public void mtd() {
         System.out.println("Feature 1 fix by user 1");
     }
+
+    public void feature3() {
+        
+    }
 }
