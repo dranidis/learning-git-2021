@@ -5,5 +5,6 @@ public class A {
      * this is part of feature1
      */
     public void mtd() {
+        System.out.println("Feature 1 fix by user 1");
     }
 }
