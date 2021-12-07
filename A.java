@@ -16,4 +16,8 @@ public class A {
     public void  feature4() {
         
     }
+
+    public void someWork() {
+        
+    }
 }
